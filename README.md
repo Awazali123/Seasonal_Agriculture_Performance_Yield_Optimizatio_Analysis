@@ -31,7 +31,7 @@ End-to-end data analytics and statistical project investigating cross-seasonal a
 
 ## How to Run
 
-1. Clone the repository: `git clone [https://github.com/shaik-awaz-ali/Seasonal-Agriculture-Performance-Yield-Optimization-Analysis.git](https://github.com/shaik-awaz-ali/Seasonal-Agriculture-Performance-Yield-Optimization-Analysis.git)`
+1. Clone the repository: `git clone [https://github.com/Awazali123/Seasonal-Agriculture-Performance-Yield-Optimization-Analysis.git](https://github.com/Awazali123/Seasonal-Agriculture-Performance-Yield-Optimization-Analysis.git)`
 2. Install required dependencies: `pip install pandas numpy matplotlib seaborn`
 3. Launch the notebook environment: `jupyter notebook seasonal_agriculture_performance_dataset.ipynb`
 4. Execute all cells to reproduce the exploratory data analysis and generate the visual charts.
